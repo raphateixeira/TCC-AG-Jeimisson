@@ -7,3 +7,10 @@
 - 5 - Comparar desempenhos;
 - 6 - Utilizar modelo de referência para sintonia do controlador;
 
+# Texto escrito: Overleaf - LaTeX
+
+- 1 - Introdução:
+- 2 - Fundamentos - AG - Identificação (SINDy - OLS) - Sintonia de controladores - Modelo de refeência;
+- 3 - Bancada motor gerador - Identificação do modelo - Sintonia do controlador por AG;
+- 4 - Resultados:
+- 5 - Conclusão:
